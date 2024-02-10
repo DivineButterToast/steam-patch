@@ -1,8 +1,8 @@
 #General Settings
 main_enabled = true
 tdp_control = true
-max_tdp = 30               #If using smokeless bios you can push this higher
-max_gpu = 2700
+max_tdp = 45               #If using smokeless bios you can push this higher
+max_gpu = 3000
 
 #Feature toggles
 legacy_tdp = false         #true = ryzenadj, false = WMI calls
